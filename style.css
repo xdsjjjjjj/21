@@ -1,0 +1,19 @@
+body{
+color: blue;
+background-image: url('https://wallpaperaccess.com/full/705594.jpg');
+background-size: cover;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects,#Result_object_name ,#Result_object_Accuracy{
+    color: purple;
+}
+#camera{
+    border: 2px dashed violet;
+    width: 350px;
+    height: 300px;
+    
+}
